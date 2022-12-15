@@ -1,0 +1,239 @@
+body{
+    height: 3000px;
+}
+.logo{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 49.8px;
+}
+.nav{
+    display: inline-block;
+    
+    
+}
+.li-line{
+   font-size: 22px;
+   
+}
+.div-list{
+    
+    margin-right: 18px;
+    color:#3D58A6;
+}
+.div-list2{
+    
+    margin-right: 18px;
+    color:#3D58A6;
+    
+}
+.div-list3{
+    
+    color:#3D58A6;
+}
+.div-color{
+    color: #EE4036;
+}
+
+/* aq damtavrda shesavali tavis gaketeba da iwyeba selectori */
+
+.selection-img{
+    margin-top: 76.9px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 120px;
+    width: 1724px;
+}
+
+.selection-h3{
+    font-size: 24px;
+    margin-left: 98px;
+    margin-bottom:30px ;
+}
+/* es selectoris pirceli nawili*/
+
+/* gadavdivar meoreze*/
+.show{
+    background-color: #F2F2F2;
+    width: 570px;
+    margin-left: 113px;
+    margin-right: 30px;
+    display:inline-block
+}
+.show-h3{
+    font-size: 22px;
+    color: #3D58A6;
+    padding-top: 10px;
+    padding-left: 28px;
+}
+.show-img{
+    padding-top: 12.8px;
+    padding-left: 23.8px;
+    padding-bottom: 41.7px;
+    padding-right: 61.2px;
+    vertical-align: middle;
+} 
+.show-text{
+    width: 250px;
+    
+    display: inline-block;
+    vertical-align: middle;
+    color: #333333;
+}
+/* aq daviwye meore  nawili mtavcari gverdis otxkutxedis navis */
+
+.show2{
+    background-color: #F2F2F2;
+    width: 570px;
+    height: 216.98px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+.show2-h3{
+    font-size: 22px;
+    color: #3D58A6;
+    padding-top: 10px;
+    padding-left: 18px;
+}
+.phone-img{
+    padding-top: 22px;
+    padding-right: 52.9px;
+    padding-bottom: 36.1px;
+    padding-left: 63.3px;
+    vertical-align: middle;
+}
+.show2-text{
+    width: 250px;
+    display: inline-block;
+    vertical-align: middle;
+    color: #333333;
+}
+/* aq damtavrda meore  nawili mtavcari gverdis otxkutxedis navis*/
+
+/* daviwye footeris gaketeba */
+.fb{
+   margin-top: 70px;
+   margin-right: 36px;
+   margin-left: 109px;
+}
+.vl {
+    border-left: 2px solid #363E97;
+    height: 26.67px;
+    display:inline-block;
+    margin-right: 30px;
+}
+/* aq davamtavre mtlianad gverdze mushaoba */
+
+/*daviwye news gverdze mushaoba*/
+
+.square-time{
+    width: 56px;
+    height: 56px;
+    background-color: #3D58A6;
+    color: #FFFFFF;
+    font-size: 37px;
+    margin-top: 40px;
+    margin-bottom:2px ;
+    margin-left: 30px;
+    text-align: center;
+    padding: 10px 0;
+}
+.month{
+    color: #3D58A6;
+    font-size: 22px;
+    margin-bottom: 17.5px;
+    margin-left: 30px;
+}
+/* aq gadavdivar ushvalot paragrafebze da shemomaq satauri*/
+
+.article-title{
+    color: #000000;
+    font-size: 20px;
+    margin-bottom: 21px;
+    margin-left: 30px;
+}
+.article-img{
+    margin-right: 40px;
+    margin-left: 30px;
+    vertical-align: top;
+}
+.article-text{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.article-img3{
+    margin-right: 40px;
+    margin-bottom: 185.5px;
+    margin-left: 30px;
+}
+.fb1{
+    margin-right:36px;
+    margin-left: 33.7px;
+}
+
+/* aq dasrulda news gverdi */
+
+/* daiwyo contact gverdis sheqmna */
+
+.contact-backcl{
+    margin-top: 25px;
+    background-color: #E6E6E6;
+    height: 570px;
+}
+.contact-info{
+    padding-top: 50px;
+    padding-right: 65px;
+    padding-left: 100px;
+    display: inline-block;
+    vertical-align: top;
+}
+.contact-h3{
+    color: #3D58A6;
+    font-size: 20px;
+    margin-bottom: 9px;
+    display: block;
+}
+.contact-address{
+    color: #808080;
+    font-size: 16px;
+    display:block ;
+    margin-bottom: 9px;
+}
+.contact-address-street{
+    color: #000000;
+    font-size: 16px;
+}
+.contact-tel{
+    color: #999999;
+    font-size:16px;
+    display: block;
+    margin-bottom: 9px;
+}
+.contact-number{
+    color: #000000;
+    font-size: 16px;
+}
+.contact-mail{
+    color: #808080;
+    font-size: 16px;
+}
+.contact-mail-address{
+    color: #000000;
+    font-size: 16px;
+}  
+
+.map{
+    display: inline-block;
+   vertical-align: top;
+   padding-top: 50px;
+}
+/* damtavrda proeqti*/
+ 
+
+
+
+
+
+ 
