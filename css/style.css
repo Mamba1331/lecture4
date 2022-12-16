@@ -6,7 +6,7 @@ a{
 }
 p{
     font-family: "BPG Ingiri Arial", sans-serif;
-
+   
 }
 .logo{
     margin-top: 30px;
@@ -177,7 +177,6 @@ p{
     display: inline-block;
     vertical-align: top;
     font-family: "BPG Ingiri Arial", sans-serif;
-
     
 }
 .article-img3{
@@ -212,6 +211,7 @@ p{
     margin-bottom: 9px;
     display: block;
     font-family: 'BPG Nino Mtavruli', sans-serif;
+    
 }
 .contact-address{
     color: #808080;
