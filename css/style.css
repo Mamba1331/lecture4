@@ -2,7 +2,11 @@ body{
     height: 3000px;
 }
 a{
-    font-family: "BPG Nino Mtavruli", sans-serif;
+    font-family: 'BPG Nino Mtavruli', sans-serif;
+}
+p{
+    font-family: "BPG Ingiri Arial", sans-serif;
+
 }
 .logo{
     margin-top: 30px;
@@ -52,6 +56,7 @@ a{
     font-size: 24px;
     margin-left: 98px;
     margin-bottom:30px ;
+    font-family: 'Roboto', sans-serif;
 }
 /* es selectoris pirceli nawili*/
 
@@ -68,6 +73,7 @@ a{
     color: #3D58A6;
     padding-top: 10px;
     padding-left: 28px;
+    font-family: 'Roboto', sans-serif;
 }
 .show-img{
     padding-top: 12.8px;
@@ -82,6 +88,8 @@ a{
     display: inline-block;
     vertical-align: middle;
     color: #333333;
+    font-family: 'Roboto', sans-serif;
+   
 }
 /* aq daviwye meore  nawili mtavcari gverdis otxkutxedis navis */
 
@@ -97,6 +105,7 @@ a{
     color: #3D58A6;
     padding-top: 10px;
     padding-left: 18px;
+    font-family: 'Roboto', sans-serif;
 }
 .phone-img{
     padding-top: 22px;
@@ -110,6 +119,7 @@ a{
     display: inline-block;
     vertical-align: middle;
     color: #333333;
+    font-family: 'Roboto', sans-serif;
 }
 /* aq damtavrda meore  nawili mtavcari gverdis otxkutxedis navis*/
 
@@ -146,6 +156,7 @@ a{
     font-size: 22px;
     margin-bottom: 17.5px;
     margin-left: 30px;
+    font-family: 'BPG Nino Mtavruli', sans-serif;
 }
 /* aq gadavdivar ushvalot paragrafebze da shemomaq satauri*/
 
@@ -154,6 +165,7 @@ a{
     font-size: 20px;
     margin-bottom: 21px;
     margin-left: 30px;
+    font-family: 'BPG Nino Mtavruli', sans-serif;
 }
 .article-img{
     margin-right: 40px;
@@ -164,6 +176,8 @@ a{
     width: 50%;
     display: inline-block;
     vertical-align: top;
+    font-family: "BPG Ingiri Arial", sans-serif;
+
     
 }
 .article-img3{
@@ -197,34 +211,41 @@ a{
     font-size: 20px;
     margin-bottom: 9px;
     display: block;
+    font-family: 'BPG Nino Mtavruli', sans-serif;
 }
 .contact-address{
     color: #808080;
     font-size: 16px;
     display:block ;
     margin-bottom: 9px;
+    font-family: "BPG Ingiri Arial", sans-serif;
 }
 .contact-address-street{
     color: #000000;
     font-size: 16px;
+    font-family: "BPG Ingiri Arial", sans-serif;
 }
 .contact-tel{
     color: #999999;
     font-size:16px;
     display: block;
     margin-bottom: 9px;
+    font-family: "BPG Ingiri Arial", sans-serif;
 }
 .contact-number{
     color: #000000;
     font-size: 16px;
+    font-family: "BPG Ingiri Arial", sans-serif;
 }
 .contact-mail{
     color: #808080;
     font-size: 16px;
+    font-family: "BPG Ingiri Arial", sans-serif;
 }
 .contact-mail-address{
     color: #000000;
     font-size: 16px;
+    font-family: "BPG Ingiri Arial", sans-serif;
 }  
 
 .map{
